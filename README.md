@@ -19,4 +19,4 @@ Prescriptions:
 Item ID, Unique ID: 55,282; Record: 15,416,708; Filtered: 611,753  
 
 Input Events:  
-Item ID, Uniuue ID: 24,270; Record: 8,978,893; Filtered: 406,955
+Item ID, Unique ID: 24,270; Record: 8,978,893; Filtered: 406,955
