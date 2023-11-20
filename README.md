@@ -23,5 +23,6 @@ Item ID, Unique ID: 24,270; Record: 8,978,893; Filtered: 406,955
 
 Chart Events:
 Item ID: Unique ID: 50,056; Record: 313,645,063; Filtered: 1,334,488  
+
 For each Item ID: 225664: 764855; 220621: 420567; 226537: 149066
 
